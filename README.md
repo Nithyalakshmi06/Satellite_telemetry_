@@ -14,3 +14,13 @@ This project implements an optimized machine learning system to detect anomalies
 ```bash
 pip install -r requirements.txt
 
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Anomaly Detection Output
+![Anomaly](screenshots/anomaly_output.png)
+
+### Graph Visualization
+![Graph](screenshots/graph.png)
