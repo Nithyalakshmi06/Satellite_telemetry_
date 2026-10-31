@@ -2,7 +2,5 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow
-keras
-
-
+tensorflow-cpu
+streamlit
